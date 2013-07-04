@@ -13,8 +13,8 @@
 	],
 	"repositories": [
 		{
-		    "type": "composer",
-		    "url": "http://packages.phundament.com"
+			"type": "composer",
+			"url": "http://packages.phundament.com"
 		}
 	],
 	"require": {

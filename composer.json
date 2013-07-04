@@ -13,11 +13,11 @@
 	],
 	"repositories": [
 		{
-		    "type": "composer",
-		    "url": "http://packages.phundament.com"
+			"type": "composer",
+			"url": "http://packages.phundament.com"
 		}
 	],
 	"require": {
-        "2amigos/yiistrap": "dev-master"
+		"crisu83/yiistrap": "dev-master"
 	}
 }
